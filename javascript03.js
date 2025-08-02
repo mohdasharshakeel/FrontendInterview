@@ -89,4 +89,6 @@
 //     }
 // }
 
+//console.log(typeof null) // object //! null is an object
+
 //!  
