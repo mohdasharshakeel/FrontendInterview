@@ -18,3 +18,4 @@ let obj = {
 let obj2 = JSON.parse(JSON.stringify(obj)) // deep copy 
 
 
+obj2.address.city = "land of wano" // change in obj2 will not affect obj
