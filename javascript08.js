@@ -53,3 +53,34 @@ function subs(a, b){
     }
     return a - b;
 }
+
+
+
+//* React part for this interview is started
+// paclage.json vs package-lock.json 
+// dev dependencies vs dependencies 
+// why we use babel 
+// why we don't upload node_modules to git 
+// lifecycle methods in react 
+// functional component vs class component 
+// what is the use of extends keyword 
+// javascript file written but rename into jsx file then what will the issues cause 
+// default export vs named export 
+// what are HOCs 
+// what is react router 
+// what is single page application
+// suppose we have multiple pages in our application then how we can handle it 
+// virtual DOM vs real DOM 
+// tell me why react is fast 
+// what is useState hook 
+// what is useEffect hook
+// what is useRef hook
+// what is useContext hook
+// what is useReducer hook
+// what is useMemo hook
+// what is useCallback hook
+// in functional components in the unmounting part what parameters we pass 
+// what is memoization 
+ 
+
+
