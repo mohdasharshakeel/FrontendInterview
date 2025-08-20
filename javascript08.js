@@ -83,4 +83,14 @@ function subs(a, b){
 // what is memoization 
  
 
-
+//! HTML part for this interview is started
+// how self padding is different from selft spacing 
+// how can we club to two or more row  / cloumns 
+// class attribut in html 
+// types of list 
+// what are empty elements in html [ hr, br , img, input,]
+// what is entity in html
+// em tag vs i tag
+// what is semantic tag in html
+// div vs span tag 
+// meta tag vs progress tag 
