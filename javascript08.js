@@ -94,3 +94,13 @@ function subs(a, b){
 // what is semantic tag in html
 // div vs span tag 
 // meta tag vs progress tag 
+
+
+//! CSS part for this interview is started
+
+// what are universal selector 
+// CSS box model 
+// display non vs visibility hidden
+// types of CSS [ inline, internal, external ] higher priority [ inline > internal > external ]
+// shadow effect in css 
+
