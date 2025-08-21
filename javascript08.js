@@ -78,7 +78,7 @@ function subs(a, b){
 // what is useContext hook
 // what is useReducer hook
 // what is useMemo hook
-// what is useCallback hook
+//  
 // in functional components in the unmounting part what parameters we pass 
 // what is memoization 
  
